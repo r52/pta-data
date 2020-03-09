@@ -1,2 +1,3 @@
 # pta-data
-Data and rules for PTA
+
+Rules and additional data for [PTA](https://github.com/r52/PTA).
