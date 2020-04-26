@@ -1,1 +1,14 @@
-{"data":["# to maximum Energy Shield","#% increased Evasion Rating","#% increased Armour","# to Armour","# to Accuracy Rating","# to Evasion Rating", "#% increased Energy Shield"]}
+{
+    "data": [
+        "# to maximum Energy Shield",
+        "#% increased Evasion Rating",
+        "#% increased Armour",
+        "# to Armour",
+        "# to Evasion Rating",
+        "#% increased Energy Shield",
+        "#% increased Armour and Energy Shield",
+        "#% increased Armour and Evasion",
+        "#% increased Evasion and Energy Shield",
+        "#% increased Armour, Evasion and Energy Shield"
+    ]
+}
