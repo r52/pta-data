@@ -84,9 +84,6 @@
     "Spectral Shield Throw fires an additional Shard Projectile": {
         "value": 1
     },
-    "Has # Abyssal Socket": {
-        "id": "explicit.stat_3527617737"
-    },
     "# Added Passive Skill is a Jewel Socket": {
         "id":"explicit.stat_4079888060",
         "value": 1
