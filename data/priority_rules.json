@@ -1,5 +1,10 @@
 {
+    "enchant.stat_2954116742": {
+        "single": true,
+        "priority": []
+    },
     "enchant.stat_3459808765": {
+        "single": false,
         "priority": ["enchant.stat_2954116742"]
     }
 }
