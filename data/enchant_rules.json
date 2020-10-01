@@ -87,5 +87,24 @@
     "# Added Passive Skill is a Jewel Socket": {
         "id":"explicit.stat_4079888060",
         "value": 1
+    },
+    "Has # Abyssal Socket": {
+        "search": "Has # Abyssal Sockets",
+        "fixes": [{
+            "if": "Has 1 Abyssal Socket",
+            "val": "Has 1 Abyssal Sockets"
+        }]
+    },
+    "Monsters gain an Endurance Charge on Hit": {
+        "search": "Monsters have #% chance to gain an Endurance Charge on Hit",
+        "value": 100
+    },
+    "Monsters gain a Power Charge on Hit": {
+        "search": "Monsters have #% chance to gain a Power Charge on Hit",
+        "value": 100
+    },
+    "Monsters gain a Frenzy Charge on Hit": {
+        "search": "Monsters have #% chance to gain a Frenzy Charge on Hit",
+        "value": 100
     }
 }
