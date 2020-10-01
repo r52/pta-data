@@ -5,10 +5,10 @@
     "Elemental Hit Always Freezes, Shocks and Ignites": {
         "value": 100
     },
-    "Wild Strike Chains an additional # times": {
+    "Wild Strike's Beam Chains an additional # times": {
         "id": "enchant.stat_2447447843"
     },
-    "Wild Strike Chains an additional time": {
+    "Wild Strike's Beam Chains an additional time": {
         "value": 1
     },
     "Magma Orb Chains an additional # times": {
