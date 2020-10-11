@@ -106,5 +106,9 @@
     "Monsters gain a Frenzy Charge on Hit": {
         "search": "Monsters have #% chance to gain a Frenzy Charge on Hit",
         "value": 100
+    },
+    "You can apply an additional Curse": {
+        "search": "You can apply one fewer Curse",
+        "value": 1
     }
 }
