@@ -73,27 +73,29 @@
         "value": 100
     },
     "Cobra Lash Chains # additional times": {
-        "id":"enchant.stat_1471796012"
+        "id": "enchant.stat_1471796012"
     },
     "Cobra Lash Chains an additional time": {
         "value": 1
     },
     "Spectral Shield Throw fires # additional Shard Projectiles": {
-        "id":"enchant.stat_3608981617"
+        "id": "enchant.stat_3608981617"
     },
     "Spectral Shield Throw fires an additional Shard Projectile": {
         "value": 1
     },
     "# Added Passive Skill is a Jewel Socket": {
-        "id":"explicit.stat_4079888060",
+        "id": "explicit.stat_4079888060",
         "value": 1
     },
     "Has # Abyssal Socket": {
         "search": "Has # Abyssal Sockets",
-        "fixes": [{
-            "if": "Has 1 Abyssal Socket",
-            "val": "Has 1 Abyssal Sockets"
-        }]
+        "fixes": [
+            {
+                "if": "Has 1 Abyssal Socket",
+                "val": "Has 1 Abyssal Sockets"
+            }
+        ]
     },
     "Monsters gain an Endurance Charge on Hit": {
         "search": "Monsters have #% chance to gain an Endurance Charge on Hit",
@@ -113,5 +115,52 @@
     },
     "You can apply one fewer Curse": {
         "value": -1
+    },
+    "Grants Summon Greater Harbinger of Brutality Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 12
+    },
+    "Grants Summon Greater Harbinger of Storms Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 11
+    },
+    "Grants Summon Greater Harbinger of Directions Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 10
+    },
+    "Grants Summon Greater Harbinger of Focus Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 9
+    },
+    "Grants Summon Greater Harbinger of Time Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 8
+    },
+    "Grants Summon Greater Harbinger of the Arcane Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 7
+    },
+    "Grants Summon Harbinger of Brutality Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 6
+    },
+    "Grants Summon Harbinger of Storms Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 5
+    },
+    "Grants Summon Harbinger of Directions Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 4
+    },
+    "Grants Summon Harbinger of Focus Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 3
+    },
+    "Grants Summon Harbinger of Time Skill": {
+        "search": "Grants Summon Harbinger of the Arcane Skill",
+        "value": 2
+    },
+    "Grants Summon Harbinger of the Arcane Skill": {
+        "value": 1
     }
 }
