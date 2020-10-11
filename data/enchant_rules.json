@@ -110,5 +110,8 @@
     "You can apply an additional Curse": {
         "search": "You can apply one fewer Curse",
         "value": 1
+    },
+    "You can apply one fewer Curse": {
+        "value": -1
     }
 }
