@@ -162,5 +162,17 @@
     },
     "Grants Summon Harbinger of the Arcane Skill": {
         "value": 1
+    },
+    "1% increased Spell Damage per 16 Intelligence": {
+        "search": "#% increased Spell Damage per 16 Intelligence",
+        "value": 1
+    },
+    "1% increased Spell Damage per 16 Strength": {
+        "search": "#% increased Spell Damage per 16 Strength",
+        "value": 1
+    },
+    "1% increased Spell Damage per 16 Dexterity": {
+        "search": "#% increased Spell Damage per 16 Dexterity",
+        "value": 1
     }
 }
