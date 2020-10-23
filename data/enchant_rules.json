@@ -110,10 +110,11 @@
         "value": 100
     },
     "You can apply an additional Curse": {
-        "search": "You can apply one fewer Curse",
+        "search": "You can apply # additional Curses",
         "value": 1
     },
     "You can apply one fewer Curse": {
+        "search": "You can apply # additional Curses",
         "value": -1
     },
     "Grants Summon Greater Harbinger of Brutality Skill": {
